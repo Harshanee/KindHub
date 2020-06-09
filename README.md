@@ -10,7 +10,7 @@ Install PHP dependencies - composer install
 Install JS dependencies  - npm install  
 
 # Run
-Running migration - php artisan migrate
+Running migration - php artisan migrate  
 Running Laravel - php artisan serve  
 Running React   - npm start  
 
