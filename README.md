@@ -10,5 +10,5 @@ Install PHP dependencies - composer install
 Install JS dependencies  - npm install  
 
 # Run
-Laravel - php artisan serve
-React   - npm start
+Laravel - php artisan serve  
+React   - npm start  
