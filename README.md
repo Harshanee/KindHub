@@ -2,7 +2,7 @@
 This is a student management system.The system manages the student's entry in the kindHub elementery school.
 
 # Installation requiments
-PHP                                                                                                                                     Composer
+PHP/n                                                                                                                                     Composer
 Laravel
 Node.js
 
